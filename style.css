@@ -1,0 +1,107 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.cabecalho{
+    width: 75%;
+    height: 550px;
+    border-color: black;
+    border-style: solid;
+    border-width: 10px;
+    background-image: linear-gradient(to right, rgb(247, 231, 18), rgba(255,0,0,1));
+}
+
+#foto{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    border-style: solid;
+    margin-right: 65%;
+    border-width: 8px;
+    margin-top: 6%;
+}
+
+.info{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    right: 30%;
+    top: 5%;
+    font-size: 350%;
+    margin-bottom: 4;
+}
+
+#nome{
+    letter-spacing: 5px;
+    font-weight: bolder;
+    line-height: 1.5em;
+}
+
+
+.sobre{
+    border-color: black;
+    border-width: 6px;
+    border-style: ridge;
+    width: 75%;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    letter-spacing: 1px;
+    line-height: 2em;
+    top: 30%;
+    margin-bottom: 4;
+    margin-left: 4;
+    margin-right: 4;
+}
+
+.formacao{
+    border-color: black;
+    border-width: 6px;
+    border-style: ridge;
+    width: 75%;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    letter-spacing: 1px;
+    line-height: 2em;
+    top: 30%;
+    margin-bottom: 4;
+    margin-left: 4;
+    margin-right: 4;
+}
+
+.objetivo{
+    border-color: black;
+    border-width: 6px;
+    border-style: ridge;
+    width: 75%;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    letter-spacing: 1px;
+    line-height: 2em;
+    top: 30%;
+    margin-bottom: 4;
+    margin-left: 4;
+    margin-right: 4;
+}
+.mechama{
+    border-color: black;
+    border-width: 6px;
+    border-style: ridge;
+    width: 75%;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    letter-spacing: 1px;
+    line-height: 2em;
+    top: 30%;
+    margin-bottom: 4;
+    margin-left: 4;
+    margin-right: 4;
+}
+
+
